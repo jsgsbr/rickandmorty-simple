@@ -1,4 +1,6 @@
-Im Learning ReactJS
+#Rick And Morty - SIMPLE
+
+Im Learning ReactJS and Bootstrap
 
 - Watch Proyect: https://rickandmorty-simple.netlify.app/
 
