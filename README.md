@@ -1,4 +1,4 @@
-#Rick And Morty - SIMPLE
+# Rick And Morty - SIMPLE
 
 Im Learning ReactJS and Bootstrap
 
